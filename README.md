@@ -16,7 +16,7 @@ I'm **Ilgın ERGÜN**, a back-end development enthusiast, always looking to lear
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ilgiin&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilgiin&theme=radical" alt="GitHub Streak" width="48%"/>
- 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilgiin&layout=compact)
 </div>
 
 ---
