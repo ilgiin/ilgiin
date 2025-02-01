@@ -1,7 +1,7 @@
 ## 👋 Welcome to My GitHub Profile!
 
 ### About Me
-I'm **[Ilgın ERGÜN]**, a back-end development enthusiast, always looking to learn and improve. 💡
+I'm **Ilgın ERGÜN**, a back-end development enthusiast, always looking to learn and improve. 💡
 
 📌 **What I'm Working On:**
 - 🎓 Currently improving my back-end skills.
